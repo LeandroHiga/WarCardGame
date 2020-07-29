@@ -1,4 +1,4 @@
 # War Card Game
 > Challenge your friend in this awesome War Card Game!
 
-![](images/warcardgame_1.png)
+<img src="images/warcardgame_1.png" width="400" height="750">
